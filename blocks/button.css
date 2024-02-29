@@ -19,13 +19,13 @@
   background-color: #2a2c2f;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1279px) {
+@media screen and (max-width: 768px) {
   .button {
     width: max-content;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
   .button {
     font-size: 14px;
     font-weight: 600;

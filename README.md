@@ -1,6 +1,6 @@
 # Tripleten web_project_homeland
 
-https://github.com/mariana-rovan/web_project_homeland.git
+https://mariana-rovan.github.io/web_project_homeland/
 
 En este proyecto se conoce de donde son algunos de los colaboradores de Tripleten.
 Contiene una breve descripción de distintas ciudades, así como la posibilidad de comprar NFTs.
